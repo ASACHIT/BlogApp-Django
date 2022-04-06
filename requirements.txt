@@ -1,0 +1,5 @@
+Django
+django-ckeditor
+Django-Verify-Email==2.0.1
+Pillow
+whitenoise
